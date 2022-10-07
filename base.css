@@ -234,7 +234,9 @@ input{
 
 @media screen and (max-width:602px) {
 
-   
+	body{
+	overflow-y: auto;
+	}
     .container{
        width: 380px;
     }
