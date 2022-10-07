@@ -297,4 +297,14 @@ input{
     button {
         left: 214px;
     }
+    .error{
+        top: 585px;
+        left: 188px;
+
+    }
+    label{
+        font-size: 10px;
+        bottom: 40px;
+        left: 60px;
+    }
 }
