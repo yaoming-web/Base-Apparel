@@ -234,9 +234,7 @@ input{
 
 @media screen and (max-width:602px) {
 
-    body{
-        margin-left: 10%;
-    }
+   
     .container{
         width: 100%;
         height: 700px;
